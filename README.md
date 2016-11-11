@@ -3,7 +3,7 @@
 用法
 
  打开index.html
- 在线 查找实例网页 <a href="1.wenzhengxueyuan.applinzi.com/order/">查询网址</a>
+ 在线 查找实例网页 <a href="http://1.wenzhengxueyuan.applinzi.com/order/">查询网址</a>
 输入结果：
 your coulum number:
  70912809068110
